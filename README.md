@@ -10,4 +10,4 @@ The client and server can communicate with each other normally.
 
 The next is the picture:
 
-![](https://github.com/EasyLiu-Ly/AndroidSocket/socket.png)
+![](https://github.com/EasyLiu-Ly/AndroidSocket/blob/master/socket.png)
