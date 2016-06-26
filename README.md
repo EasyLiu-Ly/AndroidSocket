@@ -8,3 +8,6 @@ The eclipse java project realize the server of the socket.
 
 The client and server can communicate with each other normally.
 
+The next is the picture:
+
+https://github.com/EasyLiu-Ly/AndroidSocket/socket.png
